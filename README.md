@@ -21,7 +21,7 @@ purposes, and ignore any proprietary variants.
 
 ## Syntax 
 
-Example:
+Example:"cloud theme-color"
 
 ```HTML
  <meta name="theme-color" content="#0000ff"> 
